@@ -1,6 +1,6 @@
 # I AM A Bloodtype HCJ-and-P
 I am acquainted with HTML, CSS, and Javascript, but I mostly program in Python.
-I may be a full-stack developer, considering I have experience in both the front-end and back-end, but it depends on your definition. 
+I may be a full-stack developer, considering I have experience in both the front-end and back-end (Python Flask), but it depends on your definition. 
 # DO NOT HIRE ME
 I have motivation problems.
 # I POSSESS SOME OPINIONS
